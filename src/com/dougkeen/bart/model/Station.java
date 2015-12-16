@@ -43,6 +43,8 @@ public enum Station {
 	NBRK("nbrk", "North Berkeley", "N Berkeley", false, false, "mcar", "mcar"),
 	NCON("ncon", "North Concord/Martinez", "N Conc/Mrtnz", false, false,
 			"mcar", "mcar"),
+  OAKL("oakl", "Oakland Int'l Airport", "OAK", true, true, "cols", "cols",
+      true, 299999),
 	ORIN("orin", "Orinda", "Orinda", false, false, "mcar", "mcar"),
 	PITT("pitt", "Pittsburg/Bay Point", "Pitt/Bay Pt", false, true, "mcar",
 			"mcar", true, 719999),
